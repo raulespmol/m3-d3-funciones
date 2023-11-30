@@ -9,23 +9,7 @@ main {
   display: flex;
 }
 
-div {
+.box {
   width: 200px;
   height: 200px;
-}
-
-#A {
-  background-color: #0000cc;
-}
-
-#B {
-  background-color: #dd0000;
-}
-
-#C {
-  background-color: #00aa00;
-}
-
-#D {
-  background-color: #FFcc00;
 }
