@@ -10,7 +10,9 @@ main {
   display: flex;
 }
 
-.box {
+#key {
   width: 200px;
   height: 200px;
+  background-color: #FFF;
+  border: solid 3px #000;
 }
