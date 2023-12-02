@@ -8,9 +8,12 @@ body {
 
 main {
   display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  /* flex-direction: column; */
 }
 
-#key {
+#key, #key2 {
   width: 200px;
   height: 200px;
   background-color: #FFF;
